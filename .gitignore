@@ -1,0 +1,11 @@
+# Compiled class file
+*.class
+
+# IntelliJ IDEA
+.idea/
+
+# Maven
+target/
+
+# macOS
+.DS_Store
